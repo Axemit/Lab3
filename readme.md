@@ -1,1 +1,1 @@
-Przykład web 1.0.0
+Przykład web 0.0.2
